@@ -6,3 +6,6 @@ footer {
     position: absolute;
     bottom: 0px;
 }
+p {
+    text-align: center;
+}
